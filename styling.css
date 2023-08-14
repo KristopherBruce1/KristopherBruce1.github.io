@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+	background-color: mintcream;
+}
+h1 {
+	font-family: verdana;
+	background-color: darkcyan;
+
+}
+h2 {
+	background-color: mediumaquamarine;
+	font-family: verdana;
+
+}
+p {
+	font-size: 20px;
+	font-family: verdana:
+}
+table{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+table, th, td {
+	text-align: center;
+	border: 1px solid black;
+	font-family: arial;
+}
+th {
+	font-style: bold;
+	background-color: gray;
+}
+td {
+	font-size: 90%;
+	background-color: lightgray;
+	
+}
